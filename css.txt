@@ -1,0 +1,674 @@
+/* Rectangle 1 */
+
+position: absolute;
+width: 905px;
+height: 1355px;
+
+background: linear-gradient(180deg, #CFD2F3 0%, rgba(228, 229, 248, 0.572917) 0.01%, rgba(228, 230, 248, 0.69) 57.81%, rgba(229, 231, 249, 0.540147) 99.99%, rgba(255, 255, 255, 0) 100%), #A5D3ED;
+box-shadow: inset 0px 4px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 905px;
+height: 362px;
+
+background: linear-gradient(180deg, #A5D3ED 0%, rgba(255, 255, 255, 0) 100%), rgba(207, 210, 243, 0.02);
+
+
+/* navbar&title */
+
+position: absolute;
+width: 905px;
+height: 182px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 905px;
+height: 182px;
+
+background: #FFD5CC;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 665px;
+height: 182px;
+
+background: #E29663;
+border-radius: 23px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 170px;
+height: 151px;
+
+background: #E29663;
+border-radius: 60px;
+
+
+/* icons8-image-64 1 */
+
+position: absolute;
+width: 124px;
+height: 119px;
+
+background: url(icons8-image-64.png);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 665px;
+height: 128px;
+
+background: #F4846B;
+border-radius: 22px;
+
+
+/* Group 31 */
+
+position: absolute;
+width: 603.74px;
+height: 52.77px;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 170.74px;
+height: 50.77px;
+
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 48.19px;
+height: 170.02px;
+
+background: #5E29C6;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* DONATE */
+
+position: absolute;
+width: 107px;
+height: 28px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 114px;
+height: 51.72px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 50px;
+height: 113.25px;
+
+background: #BFBFBF;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* Home */
+
+position: absolute;
+width: 80.12px;
+height: 33px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 107.45px;
+height: 51.62px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 50px;
+height: 106.7px;
+
+background: #FEFEFE;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* About */
+
+position: absolute;
+width: 87px;
+height: 41px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 113.83px;
+height: 51.72px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 50px;
+height: 113.09px;
+
+background: #FEFEFE;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* Contact */
+
+position: absolute;
+width: 109px;
+height: 39px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 59.02px;
+height: 50.66px;
+
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 49.78px;
+height: 58.26px;
+
+background: #FEFEFE;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* FOOTER NAV */
+
+position: absolute;
+width: 905px;
+height: 150px;
+
+
+
+/* FOOTER BOX */
+
+position: absolute;
+width: 905px;
+height: 150px;
+
+background: #F4846B;
+
+
+/* Group 32 */
+
+position: absolute;
+width: 445px;
+height: 75.77px;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 170.74px;
+height: 50.77px;
+
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 48.19px;
+height: 170.02px;
+
+background: #5E29C6;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+transform: matrix(-0.02, 1, 1, 0.02, 0, 0);
+
+
+/* DONATE */
+
+position: absolute;
+width: 107px;
+height: 28px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 47px;
+height: 24px;
+
+
+
+/* Home */
+
+position: absolute;
+width: 47px;
+height: 24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 47px;
+height: 18px;
+
+
+
+/* About */
+
+position: absolute;
+width: 47px;
+height: 18px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 60px;
+height: 18px;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 60px;
+height: 18px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* Private */
+
+position: absolute;
+width: 99px;
+height: 18px;
+
+
+
+/* Privacy policy */
+
+position: absolute;
+width: 99px;
+height: 18px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* ToS */
+
+position: absolute;
+width: 126px;
+height: 19px;
+
+
+
+/* Terms of Service */
+
+position: absolute;
+width: 126px;
+height: 19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* icons8-image-64 3 */
+
+position: absolute;
+width: 245.91px;
+height: 218.43px;
+
+background: url(icons8-image-64.png);
+transform: rotate(-22.69deg);
+
+
+/* text placeholder */
+
+position: absolute;
+width: 714px;
+height: 153px;
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 655px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 566px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* text placeholder */
+
+position: absolute;
+width: 714px;
+height: 153px;
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 655px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 566px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* text placeholder */
+
+position: absolute;
+width: 714px;
+height: 153px;
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 655px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 714px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 566px;
+height: 15px;
+
+background: #C4C4C4;
+
+
+/* In need of Emergency Groccery Assistence? */
+
+position: absolute;
+width: 600px;
+height: 55px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Text */
+width: 240px;
+height: 29px;
+
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Text */
+
+position: absolute;
+width: 173px;
+height: 51px;
+
+
